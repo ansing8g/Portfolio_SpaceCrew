@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpaceCrewServer": {
+      "commandName": "Project",
+      "commandLineArgs": "config.json"
+    }
+  }
+}

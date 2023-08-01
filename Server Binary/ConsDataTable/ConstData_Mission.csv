@@ -1,0 +1,5 @@
+﻿StageIndex,MissionType,Value1,Value2
+1,GetCard,1,
+2,GetCard,2,
+3,GetCard,2,_1|_2
+4,GetCard,3,
