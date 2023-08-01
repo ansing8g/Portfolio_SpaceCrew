@@ -13,8 +13,9 @@
 
 ---
 <h3>서버</h3>
-  <li>개발 환경</li>
-    .Net 6.0, C Shap</br>
+  <li>개발 환경 및 정보</li>
+    개발 환경 : .Net 6.0, C Shap, Newtonsoft Json</br>
+    경로 : \Server Sources
     </br>
   <li>구현 목표</li>
   LockFree 알고리즘을 최대한 적용한 게임서버 제작을 목표로 했습니다.</br>
@@ -34,11 +35,12 @@
 
 ---
 <h3>클라이언트</h3>
-  <li>개발 환경</li>
-    Unity</br>
+  <li>개발 환경 및 정보</li>
+    개발 환경 : Unity 2022.3.23f1</br>
+    위치 : \Client APK
     </br>
   <li>기타</li>
     네트워크 라이브러리, 로비, 대기 방, 인게임 UI와 로직 작업을 했습니다.</br>
     그래픽 리소스와 프레임워크를 지인에게 지원 받아 소스는 올리지 않았습니다.</br>
-    클라이언트는 ClientAPK\SpaceCrew.apk를 설치하여 실행 할 수 있으며 접속 서버는 작성자 개인서버로 타겟되어 있습니다.</br>
+    클라이언트는 \Client APK\SpaceCrew.apk를 설치하여 실행 할 수 있으며 접속 서버는 작성자 개인서버로 타겟되어 있습니다.</br>
     </br>
