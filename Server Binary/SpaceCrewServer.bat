@@ -1,1 +1,0 @@
-SpaceCrewServer.exe Config.json
